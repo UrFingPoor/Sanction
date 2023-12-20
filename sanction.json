@@ -2,6 +2,10 @@
     "dwViewMatrix": 25297248,
     "dwLocalPlayerPawn": 23891784,
     "dwEntityList": 24910176,
+    "dwPlantedC4": 25315992,
+    "m_nBombSite": 3716,
+    "m_bBeingDefused": 3772,
+    "m_bBombDefused": 3796,
     "m_hPlayerPawn": 2028,
     "m_iHealth": 812,
     "m_lifeState": 816,
@@ -13,5 +17,6 @@
     "m_nodeToWorld": 16,
     "m_sSanitizedPlayerName": 1872,
     "m_iIDEntIndex": 5444,
-    "Keybind": "shift"
+    "Keybind": "shift",
+	"Keybind2": "ctrl"
 }

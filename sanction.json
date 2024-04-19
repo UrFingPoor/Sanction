@@ -1,8 +1,8 @@
 {
-    "dwViewMatrix": 26358192,
-    "dwLocalPlayerPawn": 24338920,
-    "dwEntityList": 25959864,
-    "dwPlantedC4": 26376808,
+    "dwViewMatrix": 26358240,
+    "dwLocalPlayerPawn": 26358240,
+    "dwEntityList": 25959912,
+    "dwPlantedC4": 26376856,
     "m_nBombSite": 3804,
     "m_bBeingDefused": 3860,
     "m_bBombDefused": 3884,

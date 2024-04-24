@@ -1,8 +1,8 @@
 {
-    "dwViewMatrix": 26358144,
-    "dwLocalPlayerPawn": 24338888,
-    "dwEntityList": 25960104,
-    "dwPlantedC4": 26376760,
+    "dwViewMatrix": 26358240,
+    "dwLocalPlayerPawn": 26358240,
+    "dwEntityList": 25959912,
+    "dwPlantedC4": 26376856,
     "m_nBombSite": 3804,
     "m_bBeingDefused": 3860,
     "m_bBombDefused": 3884,
@@ -16,7 +16,7 @@
     "m_boneArray": 128,
     "m_nodeToWorld": 16,
     "m_sSanitizedPlayerName": 1864,
-    "m_iIDEntIndex": 5540,
+    "m_iIDEntIndex": 5532,
     "Keybind": "shift",
     "Keybind2": "ctrl"
 }
